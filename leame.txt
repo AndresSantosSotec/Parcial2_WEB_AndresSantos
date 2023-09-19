@@ -1,0 +1,3 @@
+Este es un proyecto desarollado en laravel como parte del parcual este tiene la capatcida de crear productos elimnarlos y editar
+este forma parte del paraicla para utilizar el proyecto se debe de migrar la basde de datos de nombre ferreteria y se debe de migra la tabla|
+con el comando php artisan migrate 
